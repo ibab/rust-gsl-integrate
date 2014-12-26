@@ -1,4 +1,4 @@
-rust-gsl-integrate
-==================
+#rust-gsl-integrate
 
-Demo of how to bind to GSL integration functions
+Demo of how to bind to GSL integration functions from Rust
+
