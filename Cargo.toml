@@ -1,0 +1,5 @@
+[package]
+
+name = "integrate"
+version = "0.0.1"
+authors = ["Igor Babuschkin <igor@babuschk.in>"]
